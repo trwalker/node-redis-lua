@@ -1,0 +1,14 @@
+{
+  "name": "node-redis-lua",
+  "version": "1.0.0",
+  "description": "Testing LUA scripting on Redis via Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Tim Walker",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^2.6.2"
+  }
+}
